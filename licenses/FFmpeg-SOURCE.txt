@@ -1,0 +1,11 @@
+Bundled binary: FFmpeg 7.1 essentials, Windows x86_64 static GPLv3 build
+Builder: https://www.gyan.dev/ffmpeg/builds/
+Distributor of the exact binary: imageio-ffmpeg 0.6.0, Windows AMD64 wheel
+https://pypi.org/project/imageio-ffmpeg/0.6.0/
+FFmpeg source, version n7.1: https://github.com/FFmpeg/FFmpeg/tree/n7.1
+Source archives: https://ffmpeg.org/releases/ffmpeg-7.1.tar.xz
+Build scripts: https://github.com/GyanD/codexffmpeg
+Build configuration can be read with: ffmpeg.exe -buildconf
+License: GNU General Public License version 3 or later.
+FFmpeg is an independent executable invoked as a child process.
+No changes were made to the FFmpeg executable.
